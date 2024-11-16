@@ -1,0 +1,16 @@
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\bin\Debug\netstandard2.0\GradeManagemenrBL.deps.json
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\bin\Debug\netstandard2.0\GradeManagemenrBL.dll
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\bin\Debug\netstandard2.0\GradeManagemenrBL.pdb
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\bin\Debug\netstandard2.0\ModelList.dll
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\bin\Debug\netstandard2.0\ModelList.pdb
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.csproj.AssemblyReference.cache
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.AssemblyInfoInputs.cache
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.AssemblyInfo.cs
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.csproj.CoreCompileInputs.cache
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.sourcelink.json
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeMan.64B2AEA1.Up2Date
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.dll
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\obj\Debug\netstandard2.0\GradeManagemenrBL.pdb
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\bin\Debug\netstandard2.0\GradeManagementDL.dll
+C:\Users\mhace\Source\Repos\StudentData\GradeManagemenrBL\bin\Debug\netstandard2.0\GradeManagementDL.pdb

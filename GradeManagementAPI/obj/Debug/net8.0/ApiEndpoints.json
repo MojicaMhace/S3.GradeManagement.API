@@ -1,0 +1,117 @@
+[
+  {
+    "ContainingType": "GradeManagementAPI.Controllers.BucketController",
+    "Method": "UploadFileAsync",
+    "RelativePath": "api/Bucket",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GradeManagementAPI.Controllers.BucketController",
+    "Method": "GetAllFilesAsync",
+    "RelativePath": "api/Bucket",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "bucketName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prefix",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GradeManagementAPI.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "api/user",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[GradeManagementAPI.Credential, GradeManagementAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GradeManagementAPI.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "api/user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GradeManagementAPI.Credential",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GradeManagementAPI.Controllers.UserController",
+    "Method": "DeleteData",
+    "RelativePath": "api/user",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GradeManagementAPI.Credential",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GradeManagementAPI.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/user",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "GradeManagementAPI.Credential",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
