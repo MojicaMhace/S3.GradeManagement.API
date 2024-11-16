@@ -1,0 +1,11 @@
+C:\Users\mhace\Source\Repos\StudentData\ModelList\bin\Debug\netstandard2.0\ModelList.deps.json
+C:\Users\mhace\Source\Repos\StudentData\ModelList\bin\Debug\netstandard2.0\ModelList.dll
+C:\Users\mhace\Source\Repos\StudentData\ModelList\bin\Debug\netstandard2.0\ModelList.pdb
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.csproj.AssemblyReference.cache
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.AssemblyInfoInputs.cache
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.AssemblyInfo.cs
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.csproj.CoreCompileInputs.cache
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.sourcelink.json
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.dll
+C:\Users\mhace\Source\Repos\StudentData\ModelList\obj\Debug\netstandard2.0\ModelList.pdb
